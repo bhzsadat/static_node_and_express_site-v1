@@ -1,0 +1,42 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random quote generator",
+            "description": "A random quote generator",
+            "technologies": "HTML, CSS, JavaScript",
+            "live_link": "https://bhzsadat.github.io/a_random_quote_generator-v1/",
+            "github_link": "https://github.com/bhzsadat/a_random_quote_generator-v1",
+            "image_urls": ["public/images/rand1.png", "public/images/rand2.png"]
+        },
+        {
+            "id": "1",
+            "project_name": "Data pagination and filtering",
+            "description": "A pagination and filtering project",
+            "technologies": "HTML, CSS, JavaScript",
+            "live_link": "https://bhzsadat.github.io/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/bhzsadat/data-pagination-and-filtering-v1",
+            "image_urls": ["public/images/pag1.png", "public/images/pag2.png", "public/images/pag3.png"]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive form",
+            "description": "An interactive form",
+            "technologies": "HTML, CSS, JavaScript",
+            "live_link": "https://bhzsadat.github.io/interactive-form-v3/",
+            "github_link": "https://github.com/bhzsadat/interactive-form-v3",
+            "image_urls": ["public/images/form1.png", "public/images/form2.png", "public/images/form3.png", "public/images/form4.png"]
+        },
+        {
+            "id": "3",
+            "project_name": "Object-oriented programming game show app",
+            "description": "A game show app",
+            "technologies": "HTML, CSS, JavaScript",
+            "live_link": "https://bhzsadat.github.io/oop_game-v2/",
+            "github_link": "https://github.com/bhzsadat/oop_game-v2",
+            "image_urls": ["public/images/oop1.png", "public/images/oop2.png", "public/images/oop3.png"]
+        }
+
+    ]
+}
+
